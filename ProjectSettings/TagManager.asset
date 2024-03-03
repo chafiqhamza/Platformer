@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemies
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ladders
+  - Player
+  - BG
+  - Enemy
+  - Spikes
+  - Bullet
+  - Exit
+  - Coins
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg1
+    uniqueID: 2744132617
+    locked: 0
+  - name: bg2
+    uniqueID: 2523619629
+    locked: 0
+  - name: Water
+    uniqueID: 412231679
+    locked: 0
+  - name: Ladders
+    uniqueID: 4014602253
+    locked: 0
+  - name: Spikes
+    uniqueID: 4165856649
+    locked: 0
+  - name: Coins
+    uniqueID: 1593230371
+    locked: 0
+  - name: enemy
+    uniqueID: 916002835
+    locked: 0
+  - name: Bouncing
+    uniqueID: 2317542597
+    locked: 0
+  - name: 'particle '
+    uniqueID: 1586176511
+    locked: 0
+  - name: Platform
+    uniqueID: 2457997613
+    locked: 0
+  - name: Exit
+    uniqueID: 2455204397
+    locked: 0
+  - name: box
+    uniqueID: 3030308909
+    locked: 0
+  - name: Player
+    uniqueID: 409914877
+    locked: 0
